@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/aspilotros/aspilotros.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Welcome to YourViews
+You have recently uploaded your YouTube video and you want to know in advance how many views it will get in the future?
+Well then use YourViews!
+1. Be sure that your video statistics are public first.
+2. Copy and paste your video IDs from YouTube URL
+  Example: https://www.youtube.com/watch?v=9bZkp7q19f0 Video IDS is 9bZkp7q19f0
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
