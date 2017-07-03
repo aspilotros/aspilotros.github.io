@@ -29,4 +29,4 @@ Do you want to know more? Please visit my Github [aspilotros](https://github.com
 ### Support or Contact
 
 
-Feel free to contact me at [contact](aspilotros.yourviews.info@gmail.com)
+Feel free to contact me at **aspilotros.yourviews.info@gmail.com
