@@ -13,7 +13,7 @@ YourViews is a machine learning based prediction product based on your video sta
   Example: https://www.youtube.com/watch?v=9bZkp7q19f0 Video IDS is 9bZkp7q19f0
 
 
-Do you want to know more? Please visit my Github [GitHub Flavored Markdown](https://github.com/aspilotros).
+Do you want to know more? Please visit my Github [aspilotros](https://github.com/aspilotros).
 
 ## Modes Supported
 
