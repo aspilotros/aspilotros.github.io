@@ -1,4 +1,4 @@
-## Welcome to YourViews
+# Welcome to YourViews
 
 You have recently uploaded your YouTube video and you want to know in advance how many views it will get in the future?
 Well then use YourViews!
@@ -15,7 +15,7 @@ YourViews is a machine learning based prediction product based on your video sta
 
 Do you want to know more? Please visit my Github [GitHub Flavored Markdown](https://github.com/aspilotros).
 
-# Modes Supported
+## Modes Supported
 
 ### First 15 days since the upload - Predict the views for the next 15 days
 
