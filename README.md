@@ -15,15 +15,16 @@ YourViews is a machine learning based prediction product based on your video sta
 
 Do you want to know more? Please visit my Github [GitHub Flavored Markdown](https://github.com/aspilotros).
 
-
-```markdown
-Modes Supported
+# Modes Supported
 
 ### First 15 days since the upload - Predict the views for the next 15 days
 
 ### First 3 months since the upload - Predict the views for the next 3 months
 
 ### First 6 months since the upload - Predict the views for the next 6 months
+
+```markdown
+
 
 
 ## Header 2
